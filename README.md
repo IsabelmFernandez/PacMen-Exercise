@@ -1,4 +1,4 @@
-Pacman Animation Project (https://github.com/IsabelmFernandez/pacman.git)
+Pacman Animation Project (https://github.com/IsabelmFernandez/PacMen-Exercise.git)
 This project animates a Pacman image using JavaScript, causing it to move on the screen from left to right while opening and closing its mouth.
 
 Installation
